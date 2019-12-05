@@ -1,8 +1,8 @@
 /*
- * Modulifier || Code released under the UNLICENSE
- * Code under other copyrights & licenses listed below.
- * https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;icons;hidden;positioning;nice-lists;forms;buttons;accessibility;print
- */
+* Modulifier || Code released under the UNLICENSE
+* Code under other copyrights & licenses listed below.
+* https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;icons;hidden;positioning;nice-lists;forms;buttons;accessibility;print
+*/
 
 @-moz-viewport { width: device-width; scale: 1; }
 @-ms-viewport { width: device-width; scale: 1; }
@@ -584,9 +584,9 @@ ol > li::before {
 /* stylelint-disable no-descending-specificity */
 
 /*
- * (c) Nicolas Gallagher and Jonathan Neal of Normalize.css || MIT License
- *     https://necolas.github.io/normalize.css/
- */
+* (c) Nicolas Gallagher and Jonathan Neal of Normalize.css || MIT License
+*     https://necolas.github.io/normalize.css/
+*/
 
 button,
 input,
@@ -1084,9 +1084,9 @@ a:focus, [tabindex="0"]:focus {
   }
 
   /*
-   * (c) HTML5 Boilerplate || MIT License
-   *     https://html5boilerplate.com/
-   */
+  * (c) HTML5 Boilerplate || MIT License
+  *     https://html5boilerplate.com/
+  */
 
   /* stylelint-disable declaration-no-important */
 
